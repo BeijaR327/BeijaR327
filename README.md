@@ -27,8 +27,8 @@ I build clean, reproducible pipelines in **Python | R | SQL**, ship interactive 
 ---
 
 ## 📫 Contact
-- LinkedIn: your link  
-- Email: your.email@example.com  
+- LinkedIn: www.linkedin.com/in/beija-richardson  
+- Email: beijarichardson@gmail.com
 - Open to **Data Scientist / Data Analyst** roles, **sports analytics** preferred (NY area).
 
 
