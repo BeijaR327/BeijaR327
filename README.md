@@ -15,7 +15,7 @@ I build clean, reproducible pipelines in **Python | R | SQL**, ship interactive 
 - **Beats BioPods Sentiment** — NLP pipeline turning survey/comments into product strategy insights.
 - **Bank SQL + Python Toolkit** — secure DB utilities + analysis patterns from *Learning SQL (Beaulieu)*.
 - **Human Motion Analytics** — biomechanics/statistics replicated from academic literature.
-- **Sports Analytics Dashboard (Streamlit)** — interactive scouting/stats app.
+- **ABC Attrition Risk** - machine learning models to predict customer churn for ABC Corporation, providing attrition risk scores & feature insights to support targeted retention strategies.
 
 > 📌 See pinned repos below for code, visuals, and 1-page results summaries.
 
